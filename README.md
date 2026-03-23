@@ -57,7 +57,7 @@ behaviour in this dataset.
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 1. **Price sensitivity is low** — customers spend ~$60 regardless 
    of category, season, location or gender
 2. **Volume drives revenue** — the biggest opportunity is increasing 
