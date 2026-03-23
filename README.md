@@ -1,13 +1,13 @@
 # shopping-trends-analysis
-## 📌 Project Overview
+##  Project Overview
 An end-to-end sales analysis of 3,900 customer records using PostgreSQL 
 to uncover revenue trends, customer behaviour and market opportunities.
 
-## 🛠️ Tools Used
+##  Tools Used
 - **PostgreSQL** — Database & SQL queries
 - **DBeaver** — SQL editor
 
-## 📊 Dataset
+## Dataset
 - **Source:** Kaggle — Shopping Trends Dataset
 - **Records:** 3,900 customer transactions
 - **Columns:** Customer ID, Age, Gender, Category, Purchase Amount, 
